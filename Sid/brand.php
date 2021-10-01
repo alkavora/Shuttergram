@@ -1,3 +1,3 @@
 <?php
-  echo "Shuttergram";
+  echo "Shuttergram.exe";
 ?>
