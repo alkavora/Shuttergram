@@ -1,5 +1,6 @@
 console.log("Shuttegram = Instgram");
 
+
 function test(p){
 	p ??= 90;
 	
@@ -10,3 +11,5 @@ function test(p){
 test()
 
 console.log(null ?? 0);
+console.log("Shuttegram = Instgram2021");
+
