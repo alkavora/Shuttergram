@@ -33,6 +33,17 @@ $(document).ready(function(){
                 $spanElement.html(data);
         });
         
+
+//         if($dataLiked == 1){
+//             $(this).removeClass("far");
+//             $(this).addClass("fas");
+//             $(this).css("color","red");
+//         }else{
+//             $(this).removeClass("fas");
+//             $(this).addClass("far");
+//             $(this).css("color","#444");
+//         }
+
         if($dataLiked == 1){
             $(this).removeClass("far");
             $(this).addClass("fas");
@@ -43,6 +54,7 @@ $(document).ready(function(){
             $(this).css("color","#444");
         }
         console.log("hft21");
+
         
     });
 
@@ -72,5 +84,3 @@ Object.keys(sort).forEach(algo=>{
 })
 
 // console.log((results))
-
-
