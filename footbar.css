@@ -8,4 +8,8 @@
 .icon{
     color:gray;
     padding:5px;
+    margin: 5px 5px 5px 5px;
+}
+.text-footer{
+    background:yellow;
 }
