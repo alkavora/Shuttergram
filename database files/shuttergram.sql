@@ -64,6 +64,9 @@ INSERT INTO `post` (`postId`, `postUser`, `media`, `caption`, `postTime`) VALUES
 (1, 'myronic', 'myronic/myronic5be16e2f1fa05.jpg', 'Frozen Hands', '2018-11-06 10:34:33'),
 (2, 'myronic', 'myronic/myronic5be16e6e3e63c.jpg', 'Sunrise Point \r\nWhat a beautiful Memory It was\r\njust so bautiful', '2018-11-06 10:35:50'),
 (3, 'shutter0_0eye', 'shutter0_0eye/shutter0_0eye5be17b8dcfe22.jpg', 'Beautiful Sun', '2018-11-06 11:31:35');
+(4, 'xmyronic', 'myronic/myronic5be16e2f1fa05.jpg', 'Frozen Hands', '2018-11-06 10:34:33'),
+(5, 'ymyronic', 'myronic/myronic5be16e6e3e63c.jpg', 'Sunrise Point \r\nWhat a beautiful Memory It was\r\njust so bautiful', '2018-11-06 10:35:50'),
+(6, 'zshutter0_0eye', 'shutter0_0eye/shutter0_0eye5be17b8dcfe22.jpg', 'Beautiful Sun', '2018-11-06 11:31:35');
 
 -- --------------------------------------------------------
 
